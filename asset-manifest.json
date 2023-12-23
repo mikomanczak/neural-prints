@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/neural-prints/static/css/main.f855e6bc.css",
+    "main.js": "/neural-prints/static/js/main.e07f04a9.js",
+    "static/js/787.51f9202a.chunk.js": "/neural-prints/static/js/787.51f9202a.chunk.js",
+    "static/media/logo.svg": "/neural-prints/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/neural-prints/index.html",
+    "main.f855e6bc.css.map": "/neural-prints/static/css/main.f855e6bc.css.map",
+    "main.e07f04a9.js.map": "/neural-prints/static/js/main.e07f04a9.js.map",
+    "787.51f9202a.chunk.js.map": "/neural-prints/static/js/787.51f9202a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e07f04a9.js"
+  ]
+}
