@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/neural-prints/static/css/main.d132d8ec.css",
-    "main.js": "/neural-prints/static/js/main.59924b1f.js",
+    "main.js": "/neural-prints/static/js/main.d4e6624c.js",
     "static/js/787.51f9202a.chunk.js": "/neural-prints/static/js/787.51f9202a.chunk.js",
     "index.html": "/neural-prints/index.html",
     "main.d132d8ec.css.map": "/neural-prints/static/css/main.d132d8ec.css.map",
-    "main.59924b1f.js.map": "/neural-prints/static/js/main.59924b1f.js.map",
+    "main.d4e6624c.js.map": "/neural-prints/static/js/main.d4e6624c.js.map",
     "787.51f9202a.chunk.js.map": "/neural-prints/static/js/787.51f9202a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d132d8ec.css",
-    "static/js/main.59924b1f.js"
+    "static/js/main.d4e6624c.js"
   ]
 }
